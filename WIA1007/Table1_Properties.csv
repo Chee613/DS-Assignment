@@ -1,0 +1,8 @@
+Variable,Types of Data,Data Types,Measurement Level,Units,Range,Min Value,Top Value,Unique Values,Null Values,Outliers
+Description,Categorical,object,Nominal,N/A,N/A,N/A,2018 Proton Preve 1.6 CFE Premium Sedan - Full Spec 5-Years Warranty,3472,0,N/A
+Monthly_Installment,Numerical,object,Ratio,RM,62.0 - 15298.0,62.0,RM 516 / month,1038,0,278
+List_Price,Numerical,object,Ratio,RM,4800.0 - 1180000.0,4800.0,"RM 39,800",1301,1,278
+Model,Categorical,object,Nominal,N/A,N/A,N/A,Perodua Myvi,307,0,N/A
+Mileage,Numerical,object,Ratio,KM,2500.0 - 237214000.0,2500.0,85 - 90K KM,460,0,438
+Gear_Type,Categorical,object,Nominal,N/A,N/A,N/A,Automatic,2,0,N/A
+Location,Categorical,object,Nominal,N/A,N/A,N/A,"Selangor, Petaling Jaya",109,0,N/A
