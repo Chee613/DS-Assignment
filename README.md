@@ -3,7 +3,7 @@
 This project provides a data-driven valuation tool for the Malaysian secondary automotive market, aiming to bring transparency to pricing using Machine Learning.
 
 ## 🔗 Quick Links
-* **Google Colab Notebook:** [View Notebook](https://colab.research.google.com/drive/1OKZwtgkrA6KI6cQDh0hZb9cHi3zbcieJ?usp=sharing)
+* **Google Colab Notebook:** [View Notebook](https://colab.research.google.com/drive/1gnwZ9FL3ajXFt7g8i3ikKL2sMaucscfq?usp=sharing)
 * **Data Dictionary (Table 1 & 2):** [View Data Statistics](https://colab.research.google.com/drive/1S83DeIjWubVneDvFnLbWUuyN4vijC194?usp=sharing)
 
 ## 📄 1. Executive Summary ✨
