@@ -22,7 +22,7 @@ The analysis utilized 4,000 active car listings from <mark>**carlist_scraped_dat
 
 ## 🛠️ 4. Methodology & Workflow ⚙️
 The project followed a structured data science pipeline:
-1.  **🧹 Data Preprocessing:** Cleaned irregular formats for price/mileage and classified brands into `Asian` or `Continental`.
+1.  **🧹 Data Preprocessing:** currency parsing, mileage ranges to averages, Car_Age calculation (2025 baseline), data extraction from description(year, brand, origin) and location generalisation
 2.  **📈 Target Transformation:** Applied **Log-Transformation** to `List_Price` to handle high right-skewness from luxury supercars.
 3.  **🔎 EDA:** Performed bivariate and multivariate regression to validate market hypotheses.
 4.  **🤖 Modeling:** Compared a **Linear Regression** baseline against a tuned **Random Forest Regressor**.
